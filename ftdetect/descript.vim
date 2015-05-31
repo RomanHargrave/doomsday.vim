@@ -1,4 +1,4 @@
-augroup ded_ftdetect
+augroup descript_ftdetect
     au!
-    au BufRead,BufNewFile *.ded set ft=descript
+    au BufRead,BufNewFile *.de *.dei set ft=descript
 augroup END
